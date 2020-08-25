@@ -1,0 +1,3 @@
+Quintin DeGroot; qd2hf
+I have taken Operating Systems at the undergraduate level. I have experience in reverse engineering ARM and MIPS applications. I have built components of a game with the Propeller microcontroller and its Spin programming and assembly language. I have designed and built a sensor on a raspberry pi running Tensorflow Lite. I have designed and built a sensor system on multiple raspberry pi's using AWS Greengrass and Sagemaker components. 
+I am taking this class to learn major difficulties in designing embedded systems and what some common solutions are. I have an interest in embedded exploit development and mitigations and want to learn what the embedded ecosystem looks like. 
