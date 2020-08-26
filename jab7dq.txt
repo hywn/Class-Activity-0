@@ -1,0 +1,5 @@
+Jacob Blindenbach (jab7dq)
+
+I have little experience with embedded systems. My introduction to engineering group used a raspberry pi and I took the introduction to embedded systems class with Professor Dugan.
+
+I enjoy interating with my code in non keyboard/mouse ways. Embedded systems often have different inputss and outputs that I'm excited to learn about and play with. 
