@@ -1,0 +1,3 @@
+#Zongdi Qiu zq9ms
+#I hace controled over LCD with embedded device.
+#Hope to get more practical experience in this course.
