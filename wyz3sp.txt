@@ -1,0 +1,3 @@
+1. William Zhang
+2. I've worked with embedded development on the Solar Car Team and I've also taken Operating Systems and EAR 1/2. I have worked with Arduino, Mbed OS on STM32, and HAL for the MSP432.
+3. I'm interested in networking and communications tech, as well as automotive applications for embedded systems. I'm hoping to get a better understanding of real-time systems, which are common in vehicles.
