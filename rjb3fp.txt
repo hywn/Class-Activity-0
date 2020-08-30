@@ -1,0 +1,5 @@
+Ryan Berman, rjb3fp
+
+Limited experience with embedded systems through undergraduate mechanical engineering coursework (mechatronics). Had to learn to program interrupts in C on an ATmega to do the software for my capstone project in Fall 2018 and am hoping to learn how to actually do it right.
+
+Currently working full-time while taking courses and quickly discovering that all new hardware has an embedded systems component. Hope to learn at least enough in this course to understand the electrical and controls teams at design reviews.
