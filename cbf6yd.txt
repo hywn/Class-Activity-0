@@ -1,0 +1,11 @@
+Charles Ferraro (cbf6yd)
+
+Prior to this class I took Intro to Embedded, and over the summer I was at a hardware internship where I gained some experience in embedded design. 
+
+I have a lot experience with programming. Over the summer I used python and linux scripting a lot. Prior to the summer I also had a bunch of experience with C++ and C. 
+
+I also have experience in MATLAB, Multisim, and LabView.
+
+One of my interests is collecting old and new technology. I recently came across image persistance 3D hologram as well as magnetic levitating candles. In my collection I also have a couple handheld portable CRTs. I'm also intereted in furthering my experience and knowledge with embedded systems. In particular, I hope to apply this knowledge to product design in the future.  
+
+
