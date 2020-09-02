@@ -1,0 +1,3 @@
+Robert Adam McGill	(ram2ur)
+I've taken ECE 3430 and ECE 4435 using C++ in Code Composer Studio and VHDL. I've also coded in Java, Python, and C, but I'm rusty.
+I want to apply knowledge. Therefore, my goal for the class is to produce tangible projects. I'm also interested in refining my knowledge of operating systems and being able to think across abstraction levels, which I hope this class will help with.

@@ -1,0 +1,8 @@
+Zac Bilmen
+zb3qk
+
+Embedded Computing Experience: Took undergrad Operating System and EARS I. 
+
+I would like to work more in C in this class and get a greater familiarity of OSs in general.
+Working closer to hardware is something a traditional undergrad CS major does not get an opportunity 
+to do very often, so I would like to take this opportunity to learn a little bit about EE as well.
