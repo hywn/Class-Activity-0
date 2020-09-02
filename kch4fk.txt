@@ -1,0 +1,3 @@
+Kay Hutchinson (kch4fk)
+I took Intro to Embedded Systems with Prof Delong in undergrad and have done many projects with Arduinos. I have experience with C, C++, Python, MATLAB, Mathematica and Java.
+My interests include robotics and machine learning, and I hope to gain practical experience designing and implementing embedded systems.
