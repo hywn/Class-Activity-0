@@ -1,0 +1,5 @@
+Dipesh Manandhar (dm5pxr)
+
+I have had lots of experience with embedded systems and programming. I have taken the EAR 1 & 2 series by Professors Dugan and Delong, and I have taken Operating Systems. I have used the TI MSP432 launchpad for EAR 1 & 2 and have been working with the STM32F4 family of microcontrollers for the UVA Solar Car team. I have used C and C++ for embedded applications and used the Mbed OS library for the STM32's.
+
+I am interested in IOT applications and gaining more experience with real-time embedded applications. I hope to learn what RTOS has to offer over traditional interrupt-based embedded applications and how I can use it in my own projects.
