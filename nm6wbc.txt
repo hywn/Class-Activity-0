@@ -1,0 +1,5 @@
+Nripesh Manandhar (nm6wbc)
+
+I have taken EAR 1 & 2 and work with STM32 series microcontrollers in Solar Car at UVA.
+
+I want to learn more about RTOS systems, since it seems we are highly considering using them in Solar Car projects.
