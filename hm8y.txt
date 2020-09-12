@@ -1,0 +1,5 @@
+Henry Muhlbauer (hm8y)
+
+I have taken undergrad Embedded already and very much enjoyed that class, as well as extensively used an MSP432 in my Capstone project. I've very familiar with C, C++, and Java, with some Python and ASM experience.
+I hope to learn more about how to effectively use embedded systems in real-world applications in this class.
+
