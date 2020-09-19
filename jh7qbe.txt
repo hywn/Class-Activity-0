@@ -1,5 +1,0 @@
-James Huang (jh7qbe)
-
-have next to no practical experience with embedded systems/programming -- have taken COA1+2, though, so (hopefully?) have some relevant conceptual knowledge
-
-hello! my major interests are programming + languages. I took COA/computer architecture last semester and enjoyed it; I signed up for this class hoping it would be something like a continuation/practical application of COA.
